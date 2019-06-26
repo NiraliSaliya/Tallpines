@@ -1,0 +1,247 @@
+body{
+	margin:auto;
+}
+
+
+.content: {
+	margin: auto;
+}
+
+
+#ulNavbar{
+	margin-top: 12px;
+}
+.navbar {
+font-size: 14px;
+letter-spacing: 4px;
+font-family: 'Catamaran', sans-serif;
+font-weight: 700;
+text-align: center;
+}
+
+/*.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}*/
+
+ul#ulNavbar>li>a {
+	color: white;
+	margin: auto;
+}
+
+.abc:hover {
+	border :3px solid #cbb27c ;
+}
+.try{
+	font-size: 72px;
+color: #cbb27c;
+font-family: 'Grand Hotel', cursive;
+font-weight: 400;
+margin:auto;
+}
+
+
+.main{
+font-size: 60px;
+letter-spacing: 12px;
+color: #1b1d1e;
+font-family: 'Catamaran', sans-serif;
+font-weight: 800;
+}
+
+.moonshinepic{
+width: 555px;
+height: 355px;
+box-shadow: 0 0 35px rgba(27,29,30,0.2);
+background-color: #cbb27c;
+border: 10px solid #ffffff;
+
+}
+
+.textonside{
+font-size: 18px;
+line-height: 28px;
+color: #1b1d1e;
+font-family: 'Catamaran', sans-serif;
+font-weight: 400;
+padding-left: 600px;
+margin:auto;
+}
+
+h2{
+	padding-bottom: 30px;
+}
+h4{
+	padding-top: 30px;
+}
+
+.secondpart{
+	background: black;
+	margin:auto;
+	text-align: center;
+}
+
+.bottle{
+font-size: 60px;
+color: #cbb27c;
+font-family: 'Grand Hotel', cursive;
+font-weight: 300;
+margin: auto;
+padding-top: 30px;
+}
+
+.whitetext{
+	font-size: 60px;
+letter-spacing: 14px;
+color: white;
+font-family: 'Catamaran', sans-serif;
+font-weight: 800;
+}
+
+.textonbottom{
+color:white;
+font-family: 'Catamaran', sans-serif;
+padding-left: 150px;
+padding-right: 150px;
+
+}
+
+.row{
+	text-align: center;
+	padding-left: 160px;
+	padding-top: 50px;
+}
+.another{
+	padding-bottom: 80px;
+}
+
+.partthree{
+	text-align: center;
+}
+.bottlean{
+font-size: 50px;
+color: #cbb27c;
+font-family: 'Grand Hotel', cursive;
+font-weight: 300;
+margin: auto;
+padding-top: 80px;
+}
+.salisbury{
+	font-size: 80px;
+    letter-spacing: 11px;
+     font-family: 'Catamaran', sans-serif;
+    font-weight: 900;
+}
+
+.anotherp{
+	font-family: 'Catamaran', sans-serif;
+	padding-left: 150px;
+	padding-right: 150px;}
+
+.allofthem{
+padding-left: 60px;
+padding-right: 60px;
+padding-bottom: 30px;
+}
+
+.logoboto{
+	padding-top: 30px;
+	padding-right:200px;
+	padding-left:550px;
+	padding-bottom: 200px;
+
+}
+.lastpart{
+	background-color: black;
+	text-align:center;
+}
+
+.enjoy{
+	color:white;
+	font-family: 'Catamaran', sans-serif;
+	font-size: 50px;
+	padding-top:30px;
+}
+
+span{
+	color: #cbb27c;
+font-family: 'Grand Hotel', cursive;
+}
+
+.anotherp2{
+	font-family: 'Catamaran', sans-serif;
+	padding-left: 150px;
+	padding-right: 150px;
+	color:white;
+	padding-bottom: 40px;
+	padding-top: 20px;
+}
+.lastaddress{
+	color:white;
+	padding-right: 100px;
+padding-bottom: 70px;
+}
+.distillery{
+		color: #cbb27c;
+font-family: 'Grand Hotel', cursive;
+font-size: 30px;
+padding-top: 70px;
+
+}
+
+.PA{
+	font-family: 'Catamaran', sans-serif;
+
+}
+
+.parag{
+	padding-left: 50px;
+	padding-right: 600px;
+	font-family: 'Catamaran', sans-serif;
+}
+
+.footer{
+	background-color: #29292b;
+	margin-bottom: 0px;
+	/*padding top:30px;*/
+	/*padding-bottom: 20px; */
+}
+.logolast{ 
+padding-left: 80px; }
+
+.Copy{
+	color:white;
+padding-top: 10px;
+padding-left: 950px;
+}
+.tall1{
+font-family: 'Catamaran', sans-serif;
+color: #1a7abf;
+padding-left: 950px;
+margin-bottom: 0px;
+color: #1a7abf;
+font-size: 10px;
+}
+
+.tall2{
+font-family: 'Catamaran', sans-serif;
+padding-left: 950px;
+color: #1a7abf;
+font-size: 10px;
+padding-bottom: 20px;
+margin-bottom: 0px;
+}
+
+.anot{
+	padding-right: 200px;
+	font-family: 'Catamaran', sans-serif;
+	font-size: 15px;
+	margin-right: 0px;
+}
+
+
+/*.*//*site{
+	color: #1a7abf;
+	font-family: 'Catamaran', sans-serif;
+	font-size: 15px;
+padding-left: 800px;
+}*/
